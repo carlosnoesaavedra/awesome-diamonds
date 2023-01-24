@@ -111,6 +111,7 @@
 * [Ethereum Package Manager](https://epm.wtf) - GUI to deploy and upgrade Diamond proxies and facets. Granular facet control with ability to toggle facet functions on/off.
 * [OpenZeppelin Transpiler for Diamonds](https://github.com/GeniusVentures/openzeppelin-transpiler) - Updated OpenZeppelin Transpiler supporting Diamond patter with significant speed improvements
 * [How to use TypeScript with EIP-2535: Diamonds](https://dev.to/erhant/how-to-use-typescript-with-eip-2535-diamonds-3gl6)
+* 
 
 # Security Audits
 
@@ -212,7 +213,8 @@
 69. [zkSync](https://zksync.io/)
 70. [Crypto Unicorns](https://www.cryptounicorns.fun/)
 71. [Forward Protocol](https://forwardprotocol.io/)
-1. [Ubiquity Dollar](https://github.com/ubiquity/ubiquity-dollar)
-1. [Geo Web](https://www.geoweb.network/)
-1. [Nexera ID](https://blog.allianceblock.io/nexera-nexera-id-deep-dive-ea58350686f3)
-1.  [CronosNode NFTs](https://cronosnode.com/)
+72. [Ubiquity Dollar](https://github.com/ubiquity/ubiquity-dollar)
+73. [Geo Web](https://www.geoweb.network/)
+74. [Nexera ID](https://blog.allianceblock.io/nexera-nexera-id-deep-dive-ea58350686f3)
+75.  [CronosNode NFTs](https://cronosnode.com/)
+76.  [Fyde Treasury Protocol] (https://twitter.com/FydeTreasury)
